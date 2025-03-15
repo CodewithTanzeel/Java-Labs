@@ -9,8 +9,8 @@ public class Task02 {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         System.out.println("Enter Days :  ");
-        int days = input.nextInt();
-        
+        int day= input.nextInt();
+
 
 
 
