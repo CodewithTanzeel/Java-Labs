@@ -13,3 +13,4 @@ public class BMI {
         System.out.println(" YOUR BMI IS: "+BMI);
     }
 }
+..
