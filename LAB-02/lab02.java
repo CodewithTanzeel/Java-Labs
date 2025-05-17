@@ -76,3 +76,5 @@ public class LAB2 {
     }
     
 }
+
+__init__
